@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/EFDataTest/Form1.cs) (VB: [Form1.vb](./VB/EFDataTest/Form1.vb))
+<!-- default file list end -->
 # How to prevent loading untrusted custom assembly in EF data model
 
 
